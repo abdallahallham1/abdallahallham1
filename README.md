@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="profile-banner.png" width="100%" />
+</div>
+
+<br/>
+
 # 👋 Hi, I'm Abdallah Al Lahham
 
 ### Cybersecurity Student | Networking | Programming | Red Team Fundamentals
