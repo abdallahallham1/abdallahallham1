@@ -38,10 +38,10 @@ My approach is simple: **Understand the fundamentals. Practice what you learn. B
 - OSINT Fundamentals
 
 ### 💻 Programming & Computer Science
-- **C:** Programming Fundamentals & Academic Projects
+- **C#:** Programming Fundamentals & Academic Projects
 - **Python:** Programming Fundamentals
-- **OOP:** Object-Oriented Programming
-- **Data Structures & Algorithms:**
+- **OOP in C# :** Object-Oriented Programming
+- **Data Structures & Algorithms in C++ :**
   - Stack & Queue
   - Linked Lists
   - Trees
